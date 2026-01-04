@@ -1,16 +1,31 @@
-## Hi there 👋
+# TahaTaheri 💻
 
-<!--
-**taha-taheri-2020/taha-taheri-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💪🏻 My Skills
+- PYTHON
+- HTML
+- CSS
+- UI
+- CTK
+- CSHARP
+- COSMOS OS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⌨️ Learning 
+- FLASK
+- JS
+
+---
+
+## ✔️ What Can I make?
+- Window graphic Programs 🔲
+- Simple Front-End 🌐
+- Simple OS ☑️
+- Launchers For Windows ⚙️
+
+---
+
+## About Me
+Hello Guy's . I'm a young programmer. Programing don't need up age , just need your love.
